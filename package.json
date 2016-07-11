@@ -1,0 +1,27 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "Liri the talented App",
+  "main": "liri.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SudaGit/liri-node-app.git"
+  },
+  "keywords": [
+    "Liri",
+    "liri",
+    "\"ask",
+    "Liri\""
+  ],
+  "author": "sudac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SudaGit/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/SudaGit/liri-node-app#readme"
+}
